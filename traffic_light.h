@@ -20,7 +20,7 @@ private:
   QRadioButton * yellowlight;
   QRadioButton * greenlight;
 
-  int current_light;
+  int curr_light;
 };
 
 #endif
